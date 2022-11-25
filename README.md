@@ -15,4 +15,4 @@ Este trabajo tiene como objetivo analizar el problema de la tierra en Colombia d
 4. El la carpeta general se encuentra el PDF con la presentación del proyecto.
 
 
-##NOTA: me tocó subir archivo por archivo porque no sabía subir los documentos en las carpetas que trabajé.
+## NOTA: me tocó subir archivo por archivo porque no sabía subir los documentos en las carpetas que trabajé.
